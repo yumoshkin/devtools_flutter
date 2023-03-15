@@ -6,6 +6,15 @@
       <excludeFolder url="file://$MODULE_DIR$/1_flutter_inspector/student_list/build" />
       <excludeFolder url="file://$MODULE_DIR$/1_flutter_inspector/student_list/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/1_flutter_inspector/student_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2_performance_view/student_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2_performance_view/student_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2_performance_view/student_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3_cpu_profiler/student_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3_cpu_profiler/student_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3_cpu_profiler/student_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/4_network_view/student_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/4_network_view/student_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/4_network_view/student_list/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
